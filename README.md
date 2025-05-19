@@ -18,7 +18,7 @@ Scripts en Python para obtener datos reales desde fuentes online
 ## Dataset 📑
 Conjuntos de datos utilizados para entrenamiento y evaluación:
 - noticias_10.csv: Noticias reales recopiladas mediante scraping de medios digitales.
-- noticias_wiki.csv: Artículos técnicos de Wikipedia con sus respectivos resúmenes generados.
+- wikipedia_resumenes.tsv: Artículos técnicos de Wikipedia con sus respectivos resúmenes generados.
 
 ## Documentación 📄
 Documentación asociada al proyecto:
