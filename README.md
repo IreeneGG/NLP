@@ -1,4 +1,4 @@
-# GENERADOR DE RESUMENES 
+# GENERADOR DE RESUMENES 🖊️
 El objetivo principal de este proyecto es desarrollar y comparar distintos enfoques de resumen automático de textos en español, combinando métodos clásicos 
 (extractivos) con modelos avanzados de lenguaje (abstractivos). Se busca analizar qué tipo de modelo genera resúmenes más fieles, coherentes y eficientes.
 
